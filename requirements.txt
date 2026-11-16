@@ -1,0 +1,8 @@
+gradio
+plotly
+pandas
+numpy
+scikit-learn
+gymnasium
+stable-baselines3
+yfinance
