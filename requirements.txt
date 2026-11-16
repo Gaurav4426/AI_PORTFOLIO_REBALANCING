@@ -3,6 +3,7 @@ plotly
 pandas
 numpy
 scikit-learn
+joblib
 gymnasium
 stable-baselines3
 yfinance
